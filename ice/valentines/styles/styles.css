@@ -1,0 +1,26 @@
+*{margin:0; padding: 0%;}
+#wrapper {
+    text-align: center;
+    background-image: url("../images/hearts.png");
+}
+nav ul li {
+    color: #F433AB;
+}
+nav ul{
+    display: flex;
+    text-align: center;
+}
+h1 {
+    color: #CB04A5;
+}
+main {
+    color: #934683;
+}
+section {
+    background-color: #f7d0f2 ;
+    padding: 10px;
+
+}
+img {
+    width: 500px;
+}
